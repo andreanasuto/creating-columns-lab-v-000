@@ -64,5 +64,6 @@ img:hover {
 }
 
 .large {
-  padding: 5px
+  padding: 5px;
+  width: 300%
 }
