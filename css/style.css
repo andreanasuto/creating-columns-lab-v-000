@@ -51,7 +51,6 @@ img:hover {
   display: flex;
   flex-wrap: wrap;
   width: 32%;
-  justify-content: space-around;
 }
 /* create your tile classes! we recommend .small .med .large */
 .small {
