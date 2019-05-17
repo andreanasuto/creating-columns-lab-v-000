@@ -58,7 +58,9 @@ img:hover {
 }
 
 .med {
-  padding: 5px
+  padding: 5px;
+  width: 150%;
+  height: 150%;
 }
 
 .large {
